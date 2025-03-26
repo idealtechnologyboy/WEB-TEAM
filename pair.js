@@ -85,7 +85,7 @@ router.get("/", async (req, res) => {
             const mg = `🛑 *sri lankan Best botta * 🛑`;
             const dt = await RobinPairWeb.sendMessage(user_jid, {
               image: {
-                url: "https://raw.githubusercontent.com/Dark-Robin/Bot-Helper/refs/heads/main/autoimage/Bot%20robin%20WP.jpg",
+                url: "https://raw.githubusercontent.com/idealtechnologyboy/gfh/refs/heads/main/Leonardo_Phoenix_10_Vibrant_highcontrast_flat_vector_art_featu_1.jpg",
               },
               caption: sid,
             });
